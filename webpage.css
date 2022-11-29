@@ -1,0 +1,19 @@
+
+#header {
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 6ex;
+    
+    
+}
+
+.heading {
+    color: blue;
+    margin-left: 3ex;
+}
+
+.text{
+    margin-left: 6ex;
+    margin-right: 2ex;
+}
