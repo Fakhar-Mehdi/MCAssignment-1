@@ -3,17 +3,17 @@
     text-align: center;
     color: white;
     background-color: black;
-    height: 6ex;
+    height: 12ex;
     
     
 }
 
 .heading {
-    color: blue;
+    color: green;
     margin-left: 3ex;
 }
 
 .text{
     margin-left: 6ex;
-    margin-right: 2ex;
+    margin-right: 15ex;
 }
