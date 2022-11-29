@@ -6,14 +6,17 @@
     height: 12ex;
     
     
+    
 }
 
 .heading {
     color: green;
     margin-left: 3ex;
+    text-align: left;
 }
 
 .text{
     margin-left: 6ex;
     margin-right: 15ex;
+    text-align: justify;
 }
